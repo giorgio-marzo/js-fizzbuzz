@@ -10,3 +10,6 @@ proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro program
 Buon lavoro e buon divertimento!
 
 
+inizializzo le variabili
+
+creo un ciclo for per stampare  i numeri da 1 a 100 e controllo con console log
