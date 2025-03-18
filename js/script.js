@@ -4,13 +4,27 @@ Prima di partire a scrivere codice poniamoci qualche domanda:
 Come faccio a sapere se un numero è divisibile per? Abbiamo visto qualcosa di particolare che possiamo usare?
 */
 
-let numFizz
+let fizz = 'Fizz';
 
-let numBuzz
+let buzz = 'Buzz';
 
-for(let i=1; i<=100; i++){
+
+
+for(let i = 1; i<=100; i++){
+
+if(i % 3 == 0){
+    
+console.log(fizz)
+
+}
+
+else{
 
 console.log(i);
+    
+}
+
+
 
 }
 
