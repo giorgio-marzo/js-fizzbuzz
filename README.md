@@ -18,3 +18,7 @@ creo una condizione se il numero in stampa è un multiplo di 3, sostituisci con 
 
 aggiungo nella condizione se il numero in stampa è un multiplo di 5, sostituisci con "Buzz"
 
+definisco infine che i numeri multipli di 3 e 5 diventano FizzBuzz
+
+concluso
+
