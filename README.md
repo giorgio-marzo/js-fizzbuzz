@@ -14,5 +14,7 @@ inizializzo le variabili
 
 creo un ciclo for per stampare  i numeri da 1 a 100 e controllo con console log
 
-creo una condizione se il numero in stampa è un sottomultiplo di 3, sostituisci con "Fizz"
+creo una condizione se il numero in stampa è un multiplo di 3, sostituisci con "Fizz"
+
+aggiungo nella condizione se il numero in stampa è un multiplo di 5, sostituisci con "Buzz"
 
